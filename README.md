@@ -92,7 +92,7 @@ Depending on which blocks you run, configure keys in **Colab Secrets**:
 
 The full research paper describing this work is included in this repository:
 
-- `Reducing Hallucinations in Large Language Models via RAG.pdf`
+- `Reducing Hallucinations in Large Language Models.pdf`
 
 ## Contact
 
